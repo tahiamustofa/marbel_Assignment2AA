@@ -1,0 +1,5 @@
+.menu :where(li:not(.menu-title) > :not(ul,details,.menu-title,.btn)), .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) {
+    padding-left: 0;
+    padding-right: 0;
+ 
+}
