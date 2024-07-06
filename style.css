@@ -1,10 +1,11 @@
-.menu :where(li:not(.menu-title) > :not(ul,details,.menu-title,.btn)), .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) {
+/* .menu :where(li:not(.menu-title) > :not(ul,details,.menu-title,.btn)), .menu :where(li:not(.menu-title) > details > summary:not(.menu-title)) {
     padding-left: 0;
     padding-right: 0;
  
-}
+} */
+
  .btnH{
-    box-shadow: -0 4 0 0 rgba(0, 0,0, 0.15) !important;
+    box-shadow: 0 4 0 0 rgba(0, 0,0, 0.15) !important;
    
 
 }
